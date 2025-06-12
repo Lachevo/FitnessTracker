@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leul\\Desktop\\Fit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\logmealform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:logmealform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\workoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:workoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\workoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:workoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\trackrunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:trackrunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\nutritionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:nutritionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\nutritioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:nutritioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\analyticscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:analyticscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\dashboardform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:dashboardform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\sleepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:sleepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\sleepcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:sleepcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\workoutscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:workoutscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|c:\\users\\leul\\desktop\\fit\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\analyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:analyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|C:\\Users\\Leul\\Desktop\\Fit\\activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A1A1A1-0000-0000-0000-000000000001}|FitTrackerPro.csproj|solutionrelative:activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:27:52.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAkwHIBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:04:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAAwFEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:37:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwJMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:31:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogMealForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\LogMealForm.cs",
+              "RelativeDocumentMoniker": "LogMealForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\LogMealForm.cs [Design]",
+              "RelativeToolTip": "LogMealForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:27:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkoutsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\WorkoutsForm.cs",
+              "RelativeDocumentMoniker": "WorkoutsForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\WorkoutsForm.cs",
+              "RelativeToolTip": "WorkoutsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:43:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\MainForm.resx",
+              "RelativeDocumentMoniker": "MainForm.resx",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\MainForm.resx",
+              "RelativeToolTip": "MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-01T16:12:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkoutsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\WorkoutsForm.cs",
+              "RelativeDocumentMoniker": "WorkoutsForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\WorkoutsForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\WorkoutsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:23:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrackRunForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\TrackRunForm.cs",
+              "RelativeDocumentMoniker": "TrackRunForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\TrackRunForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\TrackRunForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:43:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "DashboardControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardControl.cs",
+              "RelativeToolTip": "DashboardControl.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAiwAsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:37:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:59:36.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NutritionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\NutritionForm.cs",
+              "RelativeDocumentMoniker": "NutritionForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\NutritionForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\NutritionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:20:18.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NutritionControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\NutritionControl.cs",
+              "RelativeDocumentMoniker": "NutritionControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\NutritionControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\NutritionControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:19:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardForm.resx",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardForm.resx",
+              "RelativeDocumentMoniker": "DashboardForm.resx",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardForm.resx",
+              "RelativeToolTip": "DashboardForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-01T18:37:48.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\ProfileForm.cs",
+              "RelativeToolTip": "ProfileForm.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwNgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:20:37.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:44:21.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:20:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnalyticsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\AnalyticsControl.cs",
+              "RelativeDocumentMoniker": "AnalyticsControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\AnalyticsControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\AnalyticsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:40:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:32:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "DashboardControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\DashboardControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\DashboardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:32:35.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:21:31.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SleepForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\SleepForm.cs",
+              "RelativeDocumentMoniker": "SleepForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\SleepForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\SleepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:22:35.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SleepControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\SleepControl.cs",
+              "RelativeDocumentMoniker": "SleepControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\SleepControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\SleepControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:37:40.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkoutsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\WorkoutsControl.cs",
+              "RelativeDocumentMoniker": "WorkoutsControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\WorkoutsControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\WorkoutsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:22:37.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Fit\\SettingsForm.cs",
+              "RelativeToolTip": "SettingsForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJ0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:21:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:21:35.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SettingsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\SettingsControl.cs",
+              "RelativeDocumentMoniker": "SettingsControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\SettingsControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\SettingsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:21:34.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\ProfileControl.cs",
+              "RelativeDocumentMoniker": "ProfileControl.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\ProfileControl.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\ProfileControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:20:20.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AnalyticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\AnalyticsForm.cs",
+              "RelativeDocumentMoniker": "AnalyticsForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\AnalyticsForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\AnalyticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:07:07.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActivityForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Leul\\Desktop\\Fit\\ActivityForm.cs",
+              "RelativeDocumentMoniker": "ActivityForm.cs",
+              "ToolTip": "C:\\Users\\Leul\\Desktop\\Cursor\\ActivityForm.cs [Design]",
+              "RelativeToolTip": "..\\Cursor\\ActivityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:07:04.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

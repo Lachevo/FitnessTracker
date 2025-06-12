@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ActivityControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddWaterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalyticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AnalyticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GoalsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogMealForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogSimpleActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NutritionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NutritionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SleepControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SleepForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartWorkoutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackRunForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkoutScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkoutsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WorkoutsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
